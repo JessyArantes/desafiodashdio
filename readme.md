@@ -1,4 +1,4 @@
-#📊 Dashboard de Vendas e Assinaturas
+# 📊 Dashboard de Vendas e Assinaturas
 
 Este projeto consiste em um **dashboard interativo no Excel** desenvolvido a partir de uma base de assinantes e planos.  
 O objetivo é permitir a análise rápida de métricas de vendas, ticket médio e composição da receita.
